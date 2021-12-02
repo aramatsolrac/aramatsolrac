@@ -6,7 +6,7 @@
 - :zap: Fun fact: I :heart: :cat:s and :dog:s
 <br>
 
-🔗 **Connect with me**
+**🔗 Connect with me**
 <p align="left">
 <p align="left">
 <a href="https://twitter.com/aramatsolrac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aramatsolrac" height="30" width="40" /></a>
