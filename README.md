@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Frontend Mentor Challenges](https://www.frontendmentor.io/profile/aramatsolrac)
+- 🔭 I’m currently working on [Frontend Mentor Challenges](https://www.frontendmentor.io/profile/aramatsolrac) and [24 days of JavaScriptmas](https://scrimba.com/learn/javascriptmas2021/)
 - 🌱 I’m currently learning **JavaScript**
 - 📫 How to reach me: [@aramatsolrac](https://twitter.com/aramatsolrac)
 - :zap: Fun fact: I :heart: :cat:s and :dog:s
