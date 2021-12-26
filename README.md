@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Alura Front-End Challenge](https://github.com/aramatsolrac/alura-challenge-front-end) and [24 days of JavaScriptmas](https://github.com/aramatsolrac/JavaScriptmas/)<!-- [Frontend Mentor Challenges](https://www.frontendmentor.io/profile/aramatsolrac) -->
+- 🔭 I’m currently working on [Alura Front-End Challenge](https://github.com/aramatsolrac/alura-challenge-front-end) and [Weekly Web Dev Challenge](https://github.com/aramatsolrac/weekly-web-dev-challenge)<!-- [Frontend Mentor Challenges](https://www.frontendmentor.io/profile/aramatsolrac) -->
 - 🌱 I’m currently learning **JavaScript**
 - 📫 How to reach me: [@aramatsolrac](https://twitter.com/aramatsolrac)
 - :zap: Fun fact: I :heart: :cat:s and :dog:s
