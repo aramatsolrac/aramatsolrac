@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [Weekly Web Dev Challenge](https://github.com/aramatsolrac/weekly-web-dev-challenge) and [Frontend Mentor Challenges](https://www.frontendmentor.io/profile/aramatsolrac)
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript**<!-- - 🎓 I'm a current student at [BrainStation Web Development Bootcamp](https://brainstation.io/course/online/remote-web-development-bootcamp). -->
 - 📫 How to reach me: [@aramatsolrac](https://twitter.com/aramatsolrac)
 - :zap: Fun fact: I :heart: :cat:s and :dog:s
 <br>
