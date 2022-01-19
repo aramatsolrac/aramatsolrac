@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on [BrainStation Projects](https://github.com/aramatsolrac/BrainStation) and [Weekly Web Dev Challenge](https://github.com/aramatsolrac/weekly-web-dev-challenge)
 - 🎓 I'm a current student at [BrainStation Web Development Bootcamp](https://brainstation.io/course/online/remote-web-development-bootcamp)
 - 📫 How to reach me: [@aramatsolrac](https://twitter.com/aramatsolrac)
-- :zap: Fun fact: I :heart: :cat:s and :dog:s
+- :zap: Fun fact: I :heart: :cat:s, :dog:s, and :potted_plant:s
 <br>
 
 **🔗 Connect with me**
