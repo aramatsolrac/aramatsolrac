@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [BrainStation Projects](https://github.com/aramatsolrac/brainstation-bootcamp) and [Weekly Web Dev Challenge](https://github.com/aramatsolrac/weekly-web-dev-challenge)
+- 🔭 I’m currently working on [BrainStation Projects](https://github.com/aramatsolrac/brainstation-bootcamp)
 - 🎓 I'm a current student at [BrainStation Web Development Bootcamp](https://brainstation.io/course/online/remote-web-development-bootcamp)
 - 📫 How to reach me: [@aramatsolrac](https://twitter.com/aramatsolrac)
 - :zap: Fun fact: I :heart: :cat:, :dog:, :potted_plant: and 🧩
