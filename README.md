@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on my Portfolio.
-- 🎓 I'm a Full Stack Web Developer  graduate from BrainStation Web Development Bootcamp. 
+- 🎓 I'm a **Full Stack Web Developer**  graduate from **BrainStation Web Development Bootcamp**. 
 - 🚀 Check out the projects I've done: [BrainStation Projects](https://github.com/aramatsolrac/brainstation-bootcamp)
 - 📫 How to reach me: [@aramatsolrac](https://twitter.com/aramatsolrac)
 - :zap: Fun fact: I :heart: :cat:, :dog:, :potted_plant: and 🧩
