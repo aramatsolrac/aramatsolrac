@@ -4,7 +4,6 @@
 - 🎓 I'm a **Full Stack Web Developer**  graduate from **BrainStation Web Development Bootcamp**
 - 🚀 Check out the projects I've done: [BrainStation Projects](https://github.com/aramatsolrac/brainstation-bootcamp)
 - 🌱 I started learning to code in November '21
-- 📫 How to reach me: [@aramatsolrac](https://twitter.com/aramatsolrac)
 - :zap: Fun fact: I :heart: :cat:, :dog:, :potted_plant: and 🧩
 
 
