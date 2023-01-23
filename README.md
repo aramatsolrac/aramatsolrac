@@ -1,6 +1,6 @@
  ### Hi there 👋                
      
-<!-- - 🔭 I’m currently working on my Portfolio --> 
+<!-- - 🔭 I’m currently working on my Portfolio -->   
 <!-- - Currently learning Vue.js Composition API -->
 - 🎓 I'm a **Full Stack Web Developer**  graduate from **BrainStation Web Development Bootcamp**
 - 🚀 Check out the projects I've done: [BrainStation Projects](https://github.com/aramatsolrac/brainstation-bootcamp)
