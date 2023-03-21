@@ -1,12 +1,13 @@
  ### Hi there 👋                         
         
 <!-- - 🔭 I’m currently working on my Portfolio -->   
-<!-- - Currently learning Vue.js Composition API -->
 - 🎓 I'm a **Full Stack Web Developer**  graduate from **BrainStation Web Development Bootcamp**
 - 🚀 Check out the projects I've done: [BrainStation Projects](https://github.com/aramatsolrac/brainstation-bootcamp)
 - 👩🏻‍💻 All my projects can be found in my portfolio: [tamaracarlos.com](https://tamaracarlos.com/)
 - 🌱 I started learning to code in November '21
 - :zap: Fun fact: I :heart: :cat:, :dog:, :potted_plant: and 🧩 
+- 🧠 Currently learning Kotlin
+
 
 
 ### 
