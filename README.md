@@ -6,7 +6,7 @@
 - 👩🏻‍💻  My portfolio: [tamaracarlos.com](https://tamaracarlos.com/)
 - 🌱 I started learning to code in November '21
 - :zap: Fun fact: I :heart: :cat:, :dog:, :potted_plant: and 🧩 
-- 🧠 Currently learning Kotlin
+- 🧠 Currently learning Swift
 
 
 
