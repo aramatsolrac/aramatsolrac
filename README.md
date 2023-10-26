@@ -2,11 +2,13 @@
         
 <!-- - 🔭 I’m currently working on my Portfolio -->    
 - 🎓 I'm a **Full Stack Web Developer**  graduate from **BrainStation Web Development Bootcamp**
+- 👩🏻‍💻 Software Developer at [Helcim](http://helcim.com/) && Full Stack Developer (Volunteer) at [Harvard in Tech](https://www.harvardintech.com/)
+- 🖼️ My portfolio: [tamaracarlos.com](https://tamaracarlos.com/)
 - 🚀 Check out the projects I've done during the bootcamp: [BrainStation Projects](https://github.com/aramatsolrac/brainstation-bootcamp)
-- 👩🏻‍💻  My portfolio: [tamaracarlos.com](https://tamaracarlos.com/)
 - 🌱 I started learning to code in November '21
 - :zap: Fun fact: I :heart: :cat:, :dog:, :potted_plant: and 🧩 
-- 🧠 Currently learning PHP
+- 🧠 Currently improving my React.js skills
+- 
 
 
 
@@ -48,7 +50,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aramatsolrac&show_icons=true&locale=en&layout=compact" alt="aramatsolrac" /></p>
 <br>
-<!--  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aramatsolrac&" alt="aramatsolrac" /></p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aramatsolrac&" alt="aramatsolrac" /></p>
 
 
 
