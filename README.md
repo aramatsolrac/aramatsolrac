@@ -8,7 +8,6 @@
 - 🌱 I started learning to code in November '21
 - :zap: Fun fact: I :heart: :cat:, :dog:, :potted_plant: and 🧩 
 - 🧠 Currently improving my React.js skills
-- 
 
 
 
