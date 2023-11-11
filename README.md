@@ -7,7 +7,7 @@
 - 🚀 Check out the projects I've done during the bootcamp: [BrainStation Projects](https://github.com/aramatsolrac/brainstation-bootcamp)
 - 🌱 I started learning to code in November '21
 - :zap: Fun fact: I :heart: :cat:, :dog:, :potted_plant: and 🧩 
-- 🧠 Currently improving my React.js skills
+- 🧠 Currently improving my frontend skills
 
 
 
