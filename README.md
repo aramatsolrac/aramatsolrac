@@ -2,7 +2,6 @@
         
 <!-- - 🔭 I’m currently working on my Portfolio -->    
 - 🎓 I'm a **Full Stack Web Developer**  graduate from **BrainStation Web Development Bootcamp**
-- 👩🏻‍💻 Associate Developer at [Critical Mass](http://criticalmass.com/) @ Apple
 - 🖼️ My portfolio: [tamaracarlos.com](https://tamaracarlos.com/)
 - 🚀 Check out the projects I've done during the bootcamp: [BrainStation Projects](https://github.com/aramatsolrac/brainstation-bootcamp)
 - 🌱 I started learning to code in November '21
